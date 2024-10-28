@@ -1,0 +1,40 @@
+body {
+    background-image: url(fondopara\ ejercicio.jpeg);
+}
+
+.MAMA2{
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 30px;
+}
+
+.heading{
+    background-color: cadetblue;
+}
+
+.course .box-container {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 4rem 0;
+    flex-wrap: wrap;
+}
+
+.course .box-container .box {
+    background: #104e66;
+    height: 25rem;
+    width: 25rem;
+    margin: 3.5rem 2rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.course .box-container .box h3 {
+    font-family: serif;
+    font-size: 2rem;
+    color: #000000;
+}

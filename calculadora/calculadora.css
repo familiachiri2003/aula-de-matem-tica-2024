@@ -1,0 +1,57 @@
+body {
+    background-color: khaki;
+    background-image: url(calculadora.avif);
+}
+.MAMA2{
+    background-color: rgb(155, 187, 108);
+    color: grey;
+    font-size: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.mama3{
+    background-color: cornsilk;
+    color: black;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.ali{
+    background-color: rgba(163, 155, 120, 0.781);
+    color: black;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 70px;
+    font-style: normal;
+    font-size: 20px;
+}
+.mama4{
+    background-color: green;
+    font-size: 20px;
+    margin-left: 460px;
+    margin-right: 460px;
+    border-radius: 20px;
+}
+.mama5{
+    background-color: olivedrab;
+    font-size: 20px;
+    margin-left: 460px;
+    margin-right: 460px;
+    border-radius: 20px;
+}
+.mama6{
+    background-color: olive;
+    font-size: 20px;
+    margin-left: 460px;
+    margin-right: 460px;
+    border-radius: 20px;
+}
+.mama7{
+    background-color: greenyellow;
+    font-size: 20px;
+    margin-left: 460px;
+    margin-right: 460px;
+    border-radius: 20px;
+}
