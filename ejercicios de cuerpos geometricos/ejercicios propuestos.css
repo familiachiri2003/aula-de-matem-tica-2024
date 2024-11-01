@@ -1,5 +1,5 @@
 body {
-    background-image: url(fondopara\ ejercicio.jpeg);
+    background-image: url(fondo\ para\ ejercicios\ propuestos.jpeg);
 }
 
 .MAMA2{
@@ -9,10 +9,12 @@ body {
     margin-left: 150px;
     margin-right: 150px;
     border-radius: 30px;
+    font-family: monospace;
 }
 
 .heading{
-    background-color: cadetblue;
+    background-color: rgb(255, 255, 255);
+    font-family: monospace;
 }
 
 .course .box-container {
@@ -22,11 +24,12 @@ body {
     margin: 0 auto;
     padding: 4rem 0;
     flex-wrap: wrap;
+    font-family: monospace;
 }
 
 .course .box-container .box {
-    background: #104e66;
-    height: 25rem;
+    background: #3e5531;
+    height: 36rem;
     width: 25rem;
     margin: 3.5rem 2rem;
     text-align: center;
@@ -36,5 +39,6 @@ body {
 .course .box-container .box h3 {
     font-family: serif;
     font-size: 2rem;
-    color: #000000;
+    color: #ffffff;
+    font-family: monospace;
 }

@@ -8,6 +8,7 @@ body {
     font-size: 70px;
     margin-left: 150px;
     margin-right: 150px;
+    font-family: monospace;
 }
 .mama3{
     background-color: cornsilk;
@@ -15,6 +16,7 @@ body {
     font-size: 25px;
     margin-left: 100px;
     margin-right: 100px;
+    font-family: monospace;
 }
 .ali{
     background-color: rgba(163, 155, 120, 0.781);
@@ -24,7 +26,7 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 70px;
-    font-style: normal;
+    font-family: monospace;
     font-size: 20px;
 }
 .mama4{
@@ -33,6 +35,7 @@ body {
     margin-left: 460px;
     margin-right: 460px;
     border-radius: 20px;
+    font-family: monospace;
 }
 .mama5{
     background-color: olivedrab;
@@ -40,6 +43,7 @@ body {
     margin-left: 460px;
     margin-right: 460px;
     border-radius: 20px;
+    font-family: monospace;
 }
 .mama6{
     background-color: olive;
@@ -47,6 +51,7 @@ body {
     margin-left: 460px;
     margin-right: 460px;
     border-radius: 20px;
+    font-family: monospace;
 }
 .mama7{
     background-color: greenyellow;
@@ -54,4 +59,5 @@ body {
     margin-left: 460px;
     margin-right: 460px;
     border-radius: 20px;
+    font-family: monospace;
 }
