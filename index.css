@@ -344,16 +344,9 @@ textarea:focus {
 .contact .row .form-container button {
     height: 5rem;
     width: 17rem;
-    background: #f9580e;
-    color: #fff;
-    cursor: pointer;
+    background: #ffffff;
     font-size: 2rem;
     transition: .2s;
     border-radius: 18px;
 }
 
-.contact .row .form-container button:hover {
-    background: none;
-    color: #f9580e;
-    border: .2rem solid #df8004;
-}
