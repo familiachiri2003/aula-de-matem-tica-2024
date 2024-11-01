@@ -341,7 +341,7 @@ textarea:focus {
     resize: none;
 }
 
-.contact .row .form-container input[type="submit"] {
+.contact .row .form-container button {
     height: 5rem;
     width: 17rem;
     background: #f9580e;
@@ -349,9 +349,10 @@ textarea:focus {
     cursor: pointer;
     font-size: 2rem;
     transition: .2s;
+    border-radius: 18px;
 }
 
-.contact .row .form-container input[type="submit"]:hover {
+.contact .row .form-container button:hover {
     background: none;
     color: #f9580e;
     border: .2rem solid #df8004;
